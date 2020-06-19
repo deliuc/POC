@@ -1,0 +1,23 @@
+{
+  "posts": [
+    { "id": 1, "title": "Acura" },
+    { "id": 2, "title": "Alfa Romeo" },
+    { "id": 3, "title": "Aston Martin" },
+    { "id": 4, "title": "Audi" },
+    { "id": 5, "title": "Bentley" },
+    { "id": 6, "title": "BMWn" },
+    { "id": 7, "title": "Bugatti" },
+    { "id": 8, "title": "Cadillac" },
+    { "id": 9, "title": "AMercedes Benz" },
+    { "id": 10, "title": "Porsche" }
+  ],
+  "comments": [
+    { "id": 1, "body": "TSX", "postId": 1 },
+    { "id": 2, "body": "RDX", "postId": 1 },
+    { "id": 3, "body": "MDX", "postId": 1 },
+    { "id": 4, "body": "4C", "postId": 2 }
+  ],
+  "profile": {
+    "name": "deliuc"
+  }
+}
